@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 description of new text
 adding more text
+
+copyright
