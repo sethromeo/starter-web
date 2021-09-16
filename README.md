@@ -7,3 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## New Text
+
+description of new text
+adding more text
