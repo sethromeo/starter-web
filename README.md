@@ -12,3 +12,7 @@ description of new text
 adding more text
 
 copyright
+
+# Contribute
+
+fork this repository
